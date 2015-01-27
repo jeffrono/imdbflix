@@ -1,0 +1,73 @@
+<html>
+<head>
+<title>IMDBFlicks.com</title>
+
+<style type="text/css">
+.stylegreen {	color: #009900;
+	font-weight: bold;
+}
+.styleyr {
+	text-align: center;
+	font-weight: bold;
+	font-size: xx-large;
+}
+
+.stylered {	color: #FF0000;
+	font-weight: bold;
+}
+.stylebig {
+	font-size: x-large;
+	font-weight: bold;
+}
+.stylemedium {
+	font-size: medium;
+	font-weight: bold;
+}
+.stylesmall {font-size: small}
+-->
+</style>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-16795005-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+
+<body>
+<script type="text/javascript"><!--
+google_ad_client = "pub-6915771596323733";
+/* imdbflix 6-8 */
+google_ad_slot = "6962192026";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><br><br>
+
+
+
+<span class="stylebig"><b><a href="http://www.imdbflicks.com">IMDBFlicks.com</a></b>
+	<br>A <font color="blue"><b>mashup</b></font> <br>
+	of <font color="green"><b>top-rated IMDB movies</b></font> <br>
+	with <font color="red"><b>Netflix</b></font><br>
+</span><p>
+<span class="stylemedium">IMDBFlicks.com shows you the Netflix streaming library filtered through the top IMDB movies by year.</span>
+<p>
+<ul><li>Netflix has a lot of streaming movies, but they're hard to browse.
+<li>I generally don't care for Netflix "recommended" movies.
+<li>IMDB's ratings are great.
+<li>Linked directly to the IMDB profile page.  Netflix summary and nice large posters.  Only streaming movies are listed so you can watch NOW!
+</ul>
+Brought to you by Jeff Novich, creator of <a href="http://www.vocabsushi.com">VocabSushi.com</a> and <a href="http://www.faresharenyc.com">FareshareNYC.com</a>.  Please send feedback <a href="mailto:imdbflix@gmail.com">here</a>.

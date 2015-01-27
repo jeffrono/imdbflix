@@ -1,0 +1,2 @@
+- create imdb db by running imdbDB.pl.  set start year and end year
+- fill in netflix data by running netflixDB.pl
