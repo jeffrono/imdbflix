@@ -1,7 +1,4 @@
 <?
-$username="imdbflix";
-$password="moon24";
-$database="imdbflix";
 
 $minrating = 7.5;
 $minvotes = 5000;
